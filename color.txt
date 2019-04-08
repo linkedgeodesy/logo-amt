@@ -1,3 +1,5 @@
-grün1		00feb5
+grün1		00FEB5
+khaki		F0E68C
+
 grün hell	93ffcb
 gelb		ffeaa7
